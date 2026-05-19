@@ -1,1 +1,2 @@
-ffmpeg
+[build]
+apt = ["ffmpeg"]
