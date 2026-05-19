@@ -1,0 +1,5 @@
+flask>=3.0
+Flask-Cors>=4.0.0
+yt-dlp>=2024.1.1
+gunicorn
+curl_cffi>=0.10.0,<0.15.0
